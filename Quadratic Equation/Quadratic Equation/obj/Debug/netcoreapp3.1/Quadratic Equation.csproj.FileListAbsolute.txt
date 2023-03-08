@@ -1,0 +1,14 @@
+C:\Users\Muhammad Ali\source\repos\Quadratic Equation\Quadratic Equation\obj\Debug\netcoreapp3.1\Quadratic Equation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Muhammad Ali\source\repos\Quadratic Equation\Quadratic Equation\obj\Debug\netcoreapp3.1\Quadratic Equation.AssemblyInfoInputs.cache
+C:\Users\Muhammad Ali\source\repos\Quadratic Equation\Quadratic Equation\obj\Debug\netcoreapp3.1\Quadratic Equation.AssemblyInfo.cs
+C:\Users\Muhammad Ali\source\repos\Quadratic Equation\Quadratic Equation\obj\Debug\netcoreapp3.1\Quadratic Equation.csproj.CoreCompileInputs.cache
+C:\Users\Muhammad Ali\source\repos\Quadratic Equation\Quadratic Equation\bin\Debug\netcoreapp3.1\Quadratic Equation.exe
+C:\Users\Muhammad Ali\source\repos\Quadratic Equation\Quadratic Equation\bin\Debug\netcoreapp3.1\Quadratic Equation.deps.json
+C:\Users\Muhammad Ali\source\repos\Quadratic Equation\Quadratic Equation\bin\Debug\netcoreapp3.1\Quadratic Equation.runtimeconfig.json
+C:\Users\Muhammad Ali\source\repos\Quadratic Equation\Quadratic Equation\bin\Debug\netcoreapp3.1\Quadratic Equation.runtimeconfig.dev.json
+C:\Users\Muhammad Ali\source\repos\Quadratic Equation\Quadratic Equation\bin\Debug\netcoreapp3.1\Quadratic Equation.dll
+C:\Users\Muhammad Ali\source\repos\Quadratic Equation\Quadratic Equation\bin\Debug\netcoreapp3.1\Quadratic Equation.pdb
+C:\Users\Muhammad Ali\source\repos\Quadratic Equation\Quadratic Equation\obj\Debug\netcoreapp3.1\Quadratic Equation.dll
+C:\Users\Muhammad Ali\source\repos\Quadratic Equation\Quadratic Equation\obj\Debug\netcoreapp3.1\Quadratic Equation.pdb
+C:\Users\Muhammad Ali\source\repos\Quadratic Equation\Quadratic Equation\obj\Debug\netcoreapp3.1\Quadratic Equation.genruntimeconfig.cache
+C:\Users\Muhammad Ali\source\repos\Quadratic Equation\Quadratic Equation\obj\Debug\netcoreapp3.1\Quadratic Equation.csproj.AssemblyReference.cache

@@ -1,0 +1,10 @@
+C:\Users\Muhammad Ali\source\repos\Win_REGISTRATION_FORM\Win_REGISTRATION_FORM\bin\Debug\Win_REGISTRATION_FORM.exe.config
+C:\Users\Muhammad Ali\source\repos\Win_REGISTRATION_FORM\Win_REGISTRATION_FORM\bin\Debug\Win_REGISTRATION_FORM.exe
+C:\Users\Muhammad Ali\source\repos\Win_REGISTRATION_FORM\Win_REGISTRATION_FORM\bin\Debug\Win_REGISTRATION_FORM.pdb
+C:\Users\Muhammad Ali\source\repos\Win_REGISTRATION_FORM\Win_REGISTRATION_FORM\obj\Debug\Win_REGISTRATION_FORM.csproj.AssemblyReference.cache
+C:\Users\Muhammad Ali\source\repos\Win_REGISTRATION_FORM\Win_REGISTRATION_FORM\obj\Debug\Win_REGISTRATION_FORM.Form1.resources
+C:\Users\Muhammad Ali\source\repos\Win_REGISTRATION_FORM\Win_REGISTRATION_FORM\obj\Debug\Win_REGISTRATION_FORM.Properties.Resources.resources
+C:\Users\Muhammad Ali\source\repos\Win_REGISTRATION_FORM\Win_REGISTRATION_FORM\obj\Debug\Win_REGISTRATION_FORM.csproj.GenerateResource.cache
+C:\Users\Muhammad Ali\source\repos\Win_REGISTRATION_FORM\Win_REGISTRATION_FORM\obj\Debug\Win_REGISTRATION_FORM.csproj.CoreCompileInputs.cache
+C:\Users\Muhammad Ali\source\repos\Win_REGISTRATION_FORM\Win_REGISTRATION_FORM\obj\Debug\Win_REGISTRATION_FORM.exe
+C:\Users\Muhammad Ali\source\repos\Win_REGISTRATION_FORM\Win_REGISTRATION_FORM\obj\Debug\Win_REGISTRATION_FORM.pdb

@@ -1,0 +1,10 @@
+C:\Users\Muhammad Ali\source\repos\Loading Animations\Loading Animations\bin\Debug\Loading Animations.exe.config
+C:\Users\Muhammad Ali\source\repos\Loading Animations\Loading Animations\bin\Debug\Loading Animations.exe
+C:\Users\Muhammad Ali\source\repos\Loading Animations\Loading Animations\bin\Debug\Loading Animations.pdb
+C:\Users\Muhammad Ali\source\repos\Loading Animations\Loading Animations\obj\Debug\Loading Animations.csproj.AssemblyReference.cache
+C:\Users\Muhammad Ali\source\repos\Loading Animations\Loading Animations\obj\Debug\Loading_Animations.Form1.resources
+C:\Users\Muhammad Ali\source\repos\Loading Animations\Loading Animations\obj\Debug\Loading_Animations.Properties.Resources.resources
+C:\Users\Muhammad Ali\source\repos\Loading Animations\Loading Animations\obj\Debug\Loading Animations.csproj.GenerateResource.cache
+C:\Users\Muhammad Ali\source\repos\Loading Animations\Loading Animations\obj\Debug\Loading Animations.csproj.CoreCompileInputs.cache
+C:\Users\Muhammad Ali\source\repos\Loading Animations\Loading Animations\obj\Debug\Loading Animations.exe
+C:\Users\Muhammad Ali\source\repos\Loading Animations\Loading Animations\obj\Debug\Loading Animations.pdb
