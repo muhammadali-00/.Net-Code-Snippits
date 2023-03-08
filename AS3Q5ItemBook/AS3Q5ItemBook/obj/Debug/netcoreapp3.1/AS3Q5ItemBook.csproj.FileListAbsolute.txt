@@ -1,0 +1,14 @@
+C:\Users\Muhammad Ali\source\repos\AS3Q5ItemBook\AS3Q5ItemBook\bin\Debug\netcoreapp3.1\AS3Q5ItemBook.exe
+C:\Users\Muhammad Ali\source\repos\AS3Q5ItemBook\AS3Q5ItemBook\bin\Debug\netcoreapp3.1\AS3Q5ItemBook.deps.json
+C:\Users\Muhammad Ali\source\repos\AS3Q5ItemBook\AS3Q5ItemBook\bin\Debug\netcoreapp3.1\AS3Q5ItemBook.runtimeconfig.json
+C:\Users\Muhammad Ali\source\repos\AS3Q5ItemBook\AS3Q5ItemBook\bin\Debug\netcoreapp3.1\AS3Q5ItemBook.runtimeconfig.dev.json
+C:\Users\Muhammad Ali\source\repos\AS3Q5ItemBook\AS3Q5ItemBook\bin\Debug\netcoreapp3.1\AS3Q5ItemBook.dll
+C:\Users\Muhammad Ali\source\repos\AS3Q5ItemBook\AS3Q5ItemBook\bin\Debug\netcoreapp3.1\AS3Q5ItemBook.pdb
+C:\Users\Muhammad Ali\source\repos\AS3Q5ItemBook\AS3Q5ItemBook\obj\Debug\netcoreapp3.1\AS3Q5ItemBook.csproj.AssemblyReference.cache
+C:\Users\Muhammad Ali\source\repos\AS3Q5ItemBook\AS3Q5ItemBook\obj\Debug\netcoreapp3.1\AS3Q5ItemBook.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Muhammad Ali\source\repos\AS3Q5ItemBook\AS3Q5ItemBook\obj\Debug\netcoreapp3.1\AS3Q5ItemBook.AssemblyInfoInputs.cache
+C:\Users\Muhammad Ali\source\repos\AS3Q5ItemBook\AS3Q5ItemBook\obj\Debug\netcoreapp3.1\AS3Q5ItemBook.AssemblyInfo.cs
+C:\Users\Muhammad Ali\source\repos\AS3Q5ItemBook\AS3Q5ItemBook\obj\Debug\netcoreapp3.1\AS3Q5ItemBook.csproj.CoreCompileInputs.cache
+C:\Users\Muhammad Ali\source\repos\AS3Q5ItemBook\AS3Q5ItemBook\obj\Debug\netcoreapp3.1\AS3Q5ItemBook.dll
+C:\Users\Muhammad Ali\source\repos\AS3Q5ItemBook\AS3Q5ItemBook\obj\Debug\netcoreapp3.1\AS3Q5ItemBook.pdb
+C:\Users\Muhammad Ali\source\repos\AS3Q5ItemBook\AS3Q5ItemBook\obj\Debug\netcoreapp3.1\AS3Q5ItemBook.genruntimeconfig.cache

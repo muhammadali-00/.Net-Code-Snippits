@@ -1,0 +1,14 @@
+C:\Users\Muhammad Ali\source\repos\AS3Q7Car\AS3Q7Car\bin\Debug\netcoreapp3.1\AS3Q7Car.exe
+C:\Users\Muhammad Ali\source\repos\AS3Q7Car\AS3Q7Car\bin\Debug\netcoreapp3.1\AS3Q7Car.deps.json
+C:\Users\Muhammad Ali\source\repos\AS3Q7Car\AS3Q7Car\bin\Debug\netcoreapp3.1\AS3Q7Car.runtimeconfig.json
+C:\Users\Muhammad Ali\source\repos\AS3Q7Car\AS3Q7Car\bin\Debug\netcoreapp3.1\AS3Q7Car.runtimeconfig.dev.json
+C:\Users\Muhammad Ali\source\repos\AS3Q7Car\AS3Q7Car\bin\Debug\netcoreapp3.1\AS3Q7Car.dll
+C:\Users\Muhammad Ali\source\repos\AS3Q7Car\AS3Q7Car\bin\Debug\netcoreapp3.1\AS3Q7Car.pdb
+C:\Users\Muhammad Ali\source\repos\AS3Q7Car\AS3Q7Car\obj\Debug\netcoreapp3.1\AS3Q7Car.csproj.AssemblyReference.cache
+C:\Users\Muhammad Ali\source\repos\AS3Q7Car\AS3Q7Car\obj\Debug\netcoreapp3.1\AS3Q7Car.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Muhammad Ali\source\repos\AS3Q7Car\AS3Q7Car\obj\Debug\netcoreapp3.1\AS3Q7Car.AssemblyInfoInputs.cache
+C:\Users\Muhammad Ali\source\repos\AS3Q7Car\AS3Q7Car\obj\Debug\netcoreapp3.1\AS3Q7Car.AssemblyInfo.cs
+C:\Users\Muhammad Ali\source\repos\AS3Q7Car\AS3Q7Car\obj\Debug\netcoreapp3.1\AS3Q7Car.csproj.CoreCompileInputs.cache
+C:\Users\Muhammad Ali\source\repos\AS3Q7Car\AS3Q7Car\obj\Debug\netcoreapp3.1\AS3Q7Car.dll
+C:\Users\Muhammad Ali\source\repos\AS3Q7Car\AS3Q7Car\obj\Debug\netcoreapp3.1\AS3Q7Car.pdb
+C:\Users\Muhammad Ali\source\repos\AS3Q7Car\AS3Q7Car\obj\Debug\netcoreapp3.1\AS3Q7Car.genruntimeconfig.cache

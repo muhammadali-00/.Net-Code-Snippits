@@ -1,0 +1,14 @@
+C:\Users\Muhammad Ali\source\repos\AS3Q3AllSTDS\AS3Q3AllSTDS\bin\Debug\netcoreapp3.1\AS3Q3AllSTDS.exe
+C:\Users\Muhammad Ali\source\repos\AS3Q3AllSTDS\AS3Q3AllSTDS\bin\Debug\netcoreapp3.1\AS3Q3AllSTDS.deps.json
+C:\Users\Muhammad Ali\source\repos\AS3Q3AllSTDS\AS3Q3AllSTDS\bin\Debug\netcoreapp3.1\AS3Q3AllSTDS.runtimeconfig.json
+C:\Users\Muhammad Ali\source\repos\AS3Q3AllSTDS\AS3Q3AllSTDS\bin\Debug\netcoreapp3.1\AS3Q3AllSTDS.runtimeconfig.dev.json
+C:\Users\Muhammad Ali\source\repos\AS3Q3AllSTDS\AS3Q3AllSTDS\bin\Debug\netcoreapp3.1\AS3Q3AllSTDS.dll
+C:\Users\Muhammad Ali\source\repos\AS3Q3AllSTDS\AS3Q3AllSTDS\bin\Debug\netcoreapp3.1\AS3Q3AllSTDS.pdb
+C:\Users\Muhammad Ali\source\repos\AS3Q3AllSTDS\AS3Q3AllSTDS\obj\Debug\netcoreapp3.1\AS3Q3AllSTDS.csproj.AssemblyReference.cache
+C:\Users\Muhammad Ali\source\repos\AS3Q3AllSTDS\AS3Q3AllSTDS\obj\Debug\netcoreapp3.1\AS3Q3AllSTDS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Muhammad Ali\source\repos\AS3Q3AllSTDS\AS3Q3AllSTDS\obj\Debug\netcoreapp3.1\AS3Q3AllSTDS.AssemblyInfoInputs.cache
+C:\Users\Muhammad Ali\source\repos\AS3Q3AllSTDS\AS3Q3AllSTDS\obj\Debug\netcoreapp3.1\AS3Q3AllSTDS.AssemblyInfo.cs
+C:\Users\Muhammad Ali\source\repos\AS3Q3AllSTDS\AS3Q3AllSTDS\obj\Debug\netcoreapp3.1\AS3Q3AllSTDS.csproj.CoreCompileInputs.cache
+C:\Users\Muhammad Ali\source\repos\AS3Q3AllSTDS\AS3Q3AllSTDS\obj\Debug\netcoreapp3.1\AS3Q3AllSTDS.dll
+C:\Users\Muhammad Ali\source\repos\AS3Q3AllSTDS\AS3Q3AllSTDS\obj\Debug\netcoreapp3.1\AS3Q3AllSTDS.pdb
+C:\Users\Muhammad Ali\source\repos\AS3Q3AllSTDS\AS3Q3AllSTDS\obj\Debug\netcoreapp3.1\AS3Q3AllSTDS.genruntimeconfig.cache

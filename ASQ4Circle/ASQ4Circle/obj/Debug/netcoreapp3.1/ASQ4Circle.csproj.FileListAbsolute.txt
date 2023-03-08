@@ -1,0 +1,14 @@
+C:\Users\Muhammad Ali\source\repos\ASQ4Circle\ASQ4Circle\bin\Debug\netcoreapp3.1\ASQ4Circle.exe
+C:\Users\Muhammad Ali\source\repos\ASQ4Circle\ASQ4Circle\bin\Debug\netcoreapp3.1\ASQ4Circle.deps.json
+C:\Users\Muhammad Ali\source\repos\ASQ4Circle\ASQ4Circle\bin\Debug\netcoreapp3.1\ASQ4Circle.runtimeconfig.json
+C:\Users\Muhammad Ali\source\repos\ASQ4Circle\ASQ4Circle\bin\Debug\netcoreapp3.1\ASQ4Circle.runtimeconfig.dev.json
+C:\Users\Muhammad Ali\source\repos\ASQ4Circle\ASQ4Circle\bin\Debug\netcoreapp3.1\ASQ4Circle.dll
+C:\Users\Muhammad Ali\source\repos\ASQ4Circle\ASQ4Circle\bin\Debug\netcoreapp3.1\ASQ4Circle.pdb
+C:\Users\Muhammad Ali\source\repos\ASQ4Circle\ASQ4Circle\obj\Debug\netcoreapp3.1\ASQ4Circle.csproj.AssemblyReference.cache
+C:\Users\Muhammad Ali\source\repos\ASQ4Circle\ASQ4Circle\obj\Debug\netcoreapp3.1\ASQ4Circle.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Muhammad Ali\source\repos\ASQ4Circle\ASQ4Circle\obj\Debug\netcoreapp3.1\ASQ4Circle.AssemblyInfoInputs.cache
+C:\Users\Muhammad Ali\source\repos\ASQ4Circle\ASQ4Circle\obj\Debug\netcoreapp3.1\ASQ4Circle.AssemblyInfo.cs
+C:\Users\Muhammad Ali\source\repos\ASQ4Circle\ASQ4Circle\obj\Debug\netcoreapp3.1\ASQ4Circle.csproj.CoreCompileInputs.cache
+C:\Users\Muhammad Ali\source\repos\ASQ4Circle\ASQ4Circle\obj\Debug\netcoreapp3.1\ASQ4Circle.dll
+C:\Users\Muhammad Ali\source\repos\ASQ4Circle\ASQ4Circle\obj\Debug\netcoreapp3.1\ASQ4Circle.pdb
+C:\Users\Muhammad Ali\source\repos\ASQ4Circle\ASQ4Circle\obj\Debug\netcoreapp3.1\ASQ4Circle.genruntimeconfig.cache

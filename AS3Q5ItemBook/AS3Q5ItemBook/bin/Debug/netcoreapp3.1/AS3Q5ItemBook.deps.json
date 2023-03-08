@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "AS3Q5ItemBook/1.0.0": {
+        "runtime": {
+          "AS3Q5ItemBook.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "AS3Q5ItemBook/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
